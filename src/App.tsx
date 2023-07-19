@@ -1,8 +1,8 @@
 import React from 'react';
-import './App.css';
+import Router from './Router';
 
 function App() {
-  return <div className="App">암산 게임</div>;
+  return <Router />;
 }
 
 export default App;
